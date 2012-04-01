@@ -1,0 +1,9 @@
+/*
+
+ */
+function GNBQuery() {
+    function DOMNodeCollection() {
+
+    }
+
+}
